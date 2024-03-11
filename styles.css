@@ -1,0 +1,34 @@
+body{
+    background-color: grey;
+}
+
+header{
+    background: white;
+    height: 10cap;
+    width: 100%;
+}
+
+.divpost{
+    background: white;
+    width: 50%;
+    margin: auto;
+    padding: 0%;
+    
+    
+}
+.head{
+    display: flex;
+    justify-content: right;
+    margin: 0%
+}
+h2{
+    width: 100%;
+}
+
+*{
+  border: red solid;
+}
+.photo img{
+
+    width: 100%;
+}
