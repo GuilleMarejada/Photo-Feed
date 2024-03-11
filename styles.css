@@ -1,11 +1,20 @@
 body{
-    background-color: grey;
+    background-color: rgb(207, 207, 207);
+    margin: 0px;
+
+}
+h1{
+    margin: auto;
+    margin-top: 1cap;
+   
 }
 
 header{
     background: white;
-    height: 10cap;
+    height: 8cap;
     width: 100%;
+    text-align: center;
+    
 }
 
 .divpost{
@@ -13,6 +22,7 @@ header{
     width: 50%;
     margin: auto;
     padding: 0%;
+    margin-top: 4cap;
     
     
 }
@@ -28,7 +38,17 @@ h2{
 *{
   border: red solid;
 }
+
 .photo img{
+    border-top: 1px groove rgba(128, 128, 128, 0.253);
+    border-bottom: 1px groove rgba(128, 128, 128, 0.253);
 
     width: 100%;
+}
+time{
+    margin: auto;
+    color: rgba(128, 128, 128, 0.685);
+}
+.comment{
+    margin-left: 1cap;
 }
