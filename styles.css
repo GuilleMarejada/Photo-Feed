@@ -3,6 +3,7 @@ body{
     margin: 0px;
 
 }
+
 header{
     background: white;
     text-align: center;
@@ -14,9 +15,9 @@ header{
     width: 50%;
     margin: auto;
     margin-top: 4cap;
-    
-    
+    margin-bottom: 4cap;
 }
+
 .head{
     display: flex;
 }
@@ -25,18 +26,19 @@ h2{
     padding-left: 1cap;
 }
 
-
 .photo img{
     border-top: 1px groove rgba(128, 128, 128, 0.253);
     border-bottom: 1px groove rgba(128, 128, 128, 0.253);
 
     width: 100%;
 }
+
 time{
     margin: auto;
     color: rgba(128, 128, 128, 0.685);
     padding: 1cap;
 }
+
 .comment p{
     padding: 1cap;
     margin: 0px;
