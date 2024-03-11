@@ -12,8 +12,9 @@ h1{
 header{
     background: white;
     height: 8cap;
-    width: 100%;
     text-align: center;
+    padding: 1cap;
+    margin-top: 0cap;
     
 }
 
@@ -23,7 +24,6 @@ header{
     margin: auto;
     padding: 0%;
     margin-top: 4cap;
-    margin-bottom: 4cap;
     
     
 }
@@ -34,8 +34,8 @@ header{
 }
 h2{
     width: 100%;
-    padding-left: 1cap;
 }
+
 
 .photo img{
     border-top: 1px groove rgba(128, 128, 128, 0.253);
@@ -46,9 +46,7 @@ h2{
 time{
     margin: auto;
     color: rgba(128, 128, 128, 0.685);
-    padding-right: 1cap;
 }
 .comment{
     margin-left: 1cap;
-    padding-bottom: 0.5cap;
 }
