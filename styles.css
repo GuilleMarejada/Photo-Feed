@@ -3,37 +3,26 @@ body{
     margin: 0px;
 
 }
-h1{
-    margin: auto;
-    margin-top: 1cap;
-   
-}
-
 header{
     background: white;
-    height: 8cap;
     text-align: center;
     padding: 1cap;
-    margin-top: 0cap;
-    
 }
 
 .divpost{
     background: white;
     width: 50%;
     margin: auto;
-    padding: 0%;
     margin-top: 4cap;
     
     
 }
 .head{
     display: flex;
-    justify-content: right;
-    margin: 0%
 }
 h2{
     width: 100%;
+    padding-left: 1cap;
 }
 
 
@@ -46,7 +35,9 @@ h2{
 time{
     margin: auto;
     color: rgba(128, 128, 128, 0.685);
+    padding: 1cap;
 }
-.comment{
-    margin-left: 1cap;
+.comment p{
+    padding: 1cap;
+    margin: 0px;
 }
